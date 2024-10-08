@@ -1,0 +1,25 @@
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Merchandise 2",
+        "price": "65.2",
+        "description": "Chasing Forever Miami - Tee",
+        "color": "White",
+        "image": "images/Group 1825.png",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "firstname": "Ravindu",
+      "lastname": "Adhikari",
+      "phone": "0718886363",
+      "email": "test@test.com",
+      "streetaddress": "Bakers",
+      "city": "London",
+      "postal-code": "15121"
+    },
+    "id": "345.3779357281768"
+  }
+]
